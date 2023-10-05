@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Custom_Scene/Regional_Hints_3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

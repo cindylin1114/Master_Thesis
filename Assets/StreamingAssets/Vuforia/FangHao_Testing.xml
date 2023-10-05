@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="book2_3" size="0.110000 0.077196" />
+    <ImageTarget name="book2_2" size="0.090000 0.061387" />
+    <ImageTarget name="book2_1" size="0.080000 0.052034" />
+    <ImageTarget name="book1_3" size="0.060000 0.083779" />
+    <ImageTarget name="book1_2" size="0.060000 0.077471" />
+    <ImageTarget name="book1_1" size="0.050000 0.075000" />
+    <ImageTarget name="book1_5_1" size="0.050000 0.069816" />
+    <ImageTarget name="book1_5" size="0.050000 0.068482" />
+    <ImageTarget name="Guide" size="0.100000 0.100000" />
+    <ImageTarget name="book1_4" size="0.080000 0.075420" />
+  </Tracking>
+</QCARConfig>

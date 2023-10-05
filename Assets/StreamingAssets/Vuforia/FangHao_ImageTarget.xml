@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="B11" size="0.089000 0.128556" />
+    <ImageTarget name="B10" size="0.088000 0.128191" />
+    <ImageTarget name="B9" size="0.087000 0.130762" />
+    <ImageTarget name="B8" size="0.120000 0.084167" />
+    <ImageTarget name="B7" size="0.120000 0.081802" />
+    <ImageTarget name="B6" size="0.129000 0.083871" />
+    <ImageTarget name="B5" size="0.088000 0.127904" />
+    <ImageTarget name="B4" size="0.087000 0.127336" />
+    <ImageTarget name="B3" size="0.088000 0.126647" />
+    <ImageTarget name="B2" size="0.090000 0.126522" />
+    <ImageTarget name="B1" size="0.087000 0.132483" />
+    <ImageTarget name="VirtualTour" size="0.068000 0.108218" />
+    <ImageTarget name="Certificate" size="0.600000 0.440923" />
+  </Tracking>
+</QCARConfig>
